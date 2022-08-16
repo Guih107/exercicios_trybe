@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(212, 245, 245);
+}
+
+#photo {
+    margin: 20px;
+
+
+}
+
+#tittle {
+    color: red;
+    text-align: center;
+    margin: 50px;
+}
+
+p {
+    color: black;
+    font-family: monospace;
+
+}
+
+h3 {
+    color: red;
+    margin: 20px;
+
+}
+
+ul {
+    color: blue;
+
+    
+}
+
+li:hover {
+    background-color: green;
+    color: white;
+}
